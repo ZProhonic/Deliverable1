@@ -12,3 +12,4 @@ C:\Users\zackp\source\repos\Deliverable1\Deliverable1\obj\Debug\net8.0\refint\De
 C:\Users\zackp\source\repos\Deliverable1\Deliverable1\obj\Debug\net8.0\Deliverable1.pdb
 C:\Users\zackp\source\repos\Deliverable1\Deliverable1\obj\Debug\net8.0\Deliverable1.genruntimeconfig.cache
 C:\Users\zackp\source\repos\Deliverable1\Deliverable1\obj\Debug\net8.0\ref\Deliverable1.dll
+C:\Users\zackp\source\repos\Deliverable1\Deliverable1\obj\Debug\net8.0\Deliverable1.sourcelink.json
