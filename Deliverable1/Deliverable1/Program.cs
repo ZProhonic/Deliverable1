@@ -15,7 +15,7 @@ public class Program
         int RemainingSoda = SodaStock - SodaSold;
         { if (SodaSold <= 100) {
             Console.WriteLine("There are " + RemainingSoda + " sodas left");
-        } else {
+        } if (SodaSold > 100) {
             Console.WriteLine("That value is too high. Stock not adjusted.");
         }
         Console.WriteLine("How many chips have been sold today? 40 in stock.");
@@ -24,7 +24,7 @@ public class Program
         int RemainingChip = ChipStock - ChipSold;
         { if (ChipSold <= 40) {
             Console.WriteLine("There are " + RemainingChip + " chips left");
-        } else {
+        } if (ChipSold > 40) {
             Console.WriteLine("That value is too high. Stock not adjusted");
         }
         Console.WriteLine("How much candy was sold today? 60 in stock.");
@@ -33,17 +33,20 @@ public class Program
         int RemainingCandy = CandyStock - CandySold;
         { if (CandySold <= 60) {
             Console.WriteLine("There is " + RemainingCandy + " candy left.");
-        } else {
+        } if (CandySold > 60) {
             Console.WriteLine("That value is too high. Stock not adjusted.");
         }
         Console.WriteLine("Thank you for filling out the values. Here's what needs to be restocked.");
-        if (RemainingSoda <= 40) {
+        int SodaRestock = 40;
+        int ChipRestock = 20;
+        int CandyRestock = 40;
+        if (RemainingSoda <= SodaRestock) {
             Console.WriteLine("Soda needs to be restocked.");
         }
-        if (RemainingChip <= 20) {
+        if (RemainingChip <= ChipRestock) {
             Console.WriteLine("Chips need to be restocked.");
         }
-        if (RemainingCandy <= 40)
+        if (RemainingCandy <= CandyRestock)
             Console.WriteLine("Candy needs to be restocked.");
         }
         Console.WriteLine("Goodbye!");
