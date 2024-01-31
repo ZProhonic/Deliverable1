@@ -1,0 +1,15 @@
+C:\Users\zackp\source\repos\Number_Analyzer_Lab\Basic_Loops_Lab\Basic_Loops_Lab\bin\Debug\net8.0\Basic_Loops_Lab.exe
+C:\Users\zackp\source\repos\Number_Analyzer_Lab\Basic_Loops_Lab\Basic_Loops_Lab\bin\Debug\net8.0\Basic_Loops_Lab.deps.json
+C:\Users\zackp\source\repos\Number_Analyzer_Lab\Basic_Loops_Lab\Basic_Loops_Lab\bin\Debug\net8.0\Basic_Loops_Lab.runtimeconfig.json
+C:\Users\zackp\source\repos\Number_Analyzer_Lab\Basic_Loops_Lab\Basic_Loops_Lab\bin\Debug\net8.0\Basic_Loops_Lab.dll
+C:\Users\zackp\source\repos\Number_Analyzer_Lab\Basic_Loops_Lab\Basic_Loops_Lab\bin\Debug\net8.0\Basic_Loops_Lab.pdb
+C:\Users\zackp\source\repos\Number_Analyzer_Lab\Basic_Loops_Lab\Basic_Loops_Lab\obj\Debug\net8.0\Basic_Loops_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zackp\source\repos\Number_Analyzer_Lab\Basic_Loops_Lab\Basic_Loops_Lab\obj\Debug\net8.0\Basic_Loops_Lab.AssemblyInfoInputs.cache
+C:\Users\zackp\source\repos\Number_Analyzer_Lab\Basic_Loops_Lab\Basic_Loops_Lab\obj\Debug\net8.0\Basic_Loops_Lab.AssemblyInfo.cs
+C:\Users\zackp\source\repos\Number_Analyzer_Lab\Basic_Loops_Lab\Basic_Loops_Lab\obj\Debug\net8.0\Basic_Loops_Lab.csproj.CoreCompileInputs.cache
+C:\Users\zackp\source\repos\Number_Analyzer_Lab\Basic_Loops_Lab\Basic_Loops_Lab\obj\Debug\net8.0\Basic_Loops_Lab.sourcelink.json
+C:\Users\zackp\source\repos\Number_Analyzer_Lab\Basic_Loops_Lab\Basic_Loops_Lab\obj\Debug\net8.0\Basic_Loops_Lab.dll
+C:\Users\zackp\source\repos\Number_Analyzer_Lab\Basic_Loops_Lab\Basic_Loops_Lab\obj\Debug\net8.0\refint\Basic_Loops_Lab.dll
+C:\Users\zackp\source\repos\Number_Analyzer_Lab\Basic_Loops_Lab\Basic_Loops_Lab\obj\Debug\net8.0\Basic_Loops_Lab.pdb
+C:\Users\zackp\source\repos\Number_Analyzer_Lab\Basic_Loops_Lab\Basic_Loops_Lab\obj\Debug\net8.0\Basic_Loops_Lab.genruntimeconfig.cache
+C:\Users\zackp\source\repos\Number_Analyzer_Lab\Basic_Loops_Lab\Basic_Loops_Lab\obj\Debug\net8.0\ref\Basic_Loops_Lab.dll
